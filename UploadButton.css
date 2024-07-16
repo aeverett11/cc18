@@ -1,0 +1,16 @@
+.upload-button {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  input[type="file"] {
+    display: block;
+    margin: 20px auto;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
